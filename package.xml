@@ -3,8 +3,8 @@
 <package format="3">
   <name>camera_servo_pkg</name>
   <version>0.0.0</version>
-  <description>TODO: Package description</description>
-  <maintainer email="ubuntu@todo.todo">ubuntu</maintainer>
+  <description>TODO: Pacote que movimenta o servo da raspicam do InsperBot</description>
+  <maintainer email="rogeriobcuenca@gmail.com">Rogerio Cuenca</maintainer>
   <license>TODO: License declaration</license>
 
   <depend>rclpy</depend>
